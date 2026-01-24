@@ -1,6 +1,6 @@
 {
   "min_version": "1.0.0",
-  "is_locked": false,
+  "is_locked": true,
   "lock_message": {
     "tr": "Uygulama şu an bakimdadir. Lütfen 1 saat sonra tekrar deneyiniz.",
     "en": "The app is currently under maintenance. Please try again in an hour.",
